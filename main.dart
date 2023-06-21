@@ -68,8 +68,8 @@ void main() {
     print("alphabet is constant");
   }
   //Question #7
-  int id = 1001;
-  String name = "james";
+  //int id = 1001;
+ // String name = "james";
   int unit = 800;
   double rs;
   if (unit <= 1.99) {
